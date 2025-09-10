@@ -26,9 +26,9 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?AzizEssa1412&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?AzizEssa1412&layout=compact&theme=radical)  
-![Streak](https://streak-stats.demolab.com?user=AzizEssa1412=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical)
 
 ---
 
