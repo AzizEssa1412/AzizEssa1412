@@ -1,15 +1,24 @@
 # 👋 Hi, I'm Aziz Talat Issa
 
 🎓 Graduate of **Al-Quds University – Abu Dis**, majoring in **Computer Programming**.  
-💻 Currently training in a **Full-Stack Development Bootcamp with Axsos Acadme**.  
-📜 Holder of multiple professional certificates from global institutions.
+💻 Currently training in a **Full-Stack Development Bootcamp with Exous**.  
+📜 Holder of multiple professional certificates from global institutions.  
+🌱 Always eager to learn new technologies and grow as a developer.  
+
+---
+
+## 👨‍💻 About Me
+- 💡 Passionate about building web applications and exploring new tools.  
+- 🌱 Currently diving deeper into **Cloud Computing & DevOps**.  
+- 🤝 Open to collaborating on **Full-Stack Projects** and innovative ideas.  
+- ⚡ Fun fact: I enjoy solving coding challenges on **LeetCode** & **HackerRank**.  
 
 ---
 
 ## 🏅 Certifications
-- 🎖️ **Front-End Development** Certificate from **Udacity**   
-- 🎖️ Two **Python Programming** Certificates from **Cisco Networking Academy**  
-- 🎖️ **Artificial Intelligence (NLP & LLMs)** Certificate from **Gaza Sky Geeks**
+- 🎖️ **Front-End Development** – [Udacity](https://www.udacity.com/)  
+- 🎖️ **Python Programming** (2 Certificates) – [Cisco Networking Academy](https://www.netacad.com/)  
+- 🎖️ **Artificial Intelligence (NLP & LLMs)** – [Gaza Sky Geeks (GSG)](https://gazaskygeeks.com/)  
 
 ---
 
@@ -25,14 +34,43 @@
 
 ---
 
+## 🚀 Projects
+- [Portfolio Website]([https://github.com/YOUR_GITHUB_USERNAME/portfolio](https://github.com/AzizEssa1412/Smart-School)) – Personal portfolio built with **React & TailwindCSS**.  
+- [Training projects]([https://github.com/YOUR_GITHUB_USERNAME/ecommerce-app](https://github.com/AzizEssa1412/AXSOS-Assignment)) – Full-Stack application using the **Full-Stack Devlopment**.   
+
+---
+
+## 🧰 Languages and Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
-![Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark)  
+
+---
+
+## 🏆 Experience & Education
+- 📌 **Full-Stack Developer Intern** – Exous Bootcamp (2025)  
+- 🎓 **B.Sc. in Computer Programming** – Al-Quds University (2024)  
+- 🏅 Certified in **Front-End, Python, and AI (NLP & LLMs)**  
 
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn]([[https://linkedin.com/in/‏Aziz Issa](https://www.linkedin.com/in/aziz-issa-31471b332/)]  
-- [GitHub]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/AzizEssa1412))  
-- ✉️ [Email](aziz.issa@students.alquds.edu)
+<p>
+  <a href="mailto:aziz.issa@students.alquds.edu"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+  <a href="https://www.linkedin.com/in/aziz-issa-31471b332/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://github.com/AzizEssa1412"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
+</p>
