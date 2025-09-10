@@ -26,13 +26,13 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
-![Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?AzizEssa1412&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?AzizEssa1412&layout=compact&theme=radical)  
+![Streak](https://streak-stats.demolab.com?user=AzizEssa1412=radical)
 
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/aziz-issa-31471b332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
+- [LinkedIn]([[https://linkedin.com/in/‏Aziz Issa](https://www.linkedin.com/in/aziz-issa-31471b332/)]  
 - [GitHub]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/AzizEssa1412))  
 - ✉️ [Email](aziz.issa@students.alquds.edu)
