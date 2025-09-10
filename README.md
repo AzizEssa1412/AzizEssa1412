@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Aziz Talat Issa
 
 🎓 Graduate of **Al-Quds University – Abu Dis**, majoring in **Computer Programming**.  
-💻 Currently training in a **Full-Stack Development Bootcamp with Exous**.  
+💻 Currently training in a **Full-Stack Development Bootcamp with Axsos Acadme**.  
 📜 Holder of multiple professional certificates from global institutions.
 
 ---
 
 ## 🏅 Certifications
-- 🎖️ **Front-End Development** Certificate from [Udacity](https://www.udacity.com/)  
-- 🎖️ Two **Python Programming** Certificates from [Cisco Networking Academy](https://www.netacad.com/)  
-- 🎖️ **Artificial Intelligence (NLP & LLMs)** Certificate from [Gaza Sky Geeks (GSG)](https://gazaskygeeks.com/)
+- 🎖️ **Front-End Development** Certificate from **Udacity**   
+- 🎖️ Two **Python Programming** Certificates from **Cisco Networking Academy**  
+- 🎖️ **Artificial Intelligence (NLP & LLMs)** Certificate from **Gaza Sky Geeks**
 
 ---
 
@@ -33,6 +33,6 @@
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)  
-- [GitHub](https://github.com/YOUR_GITHUB_USERNAME)  
-- ✉️ [Email](mailto:YOUR_EMAIL@example.com)
+- [LinkedIn]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/aziz-issa-31471b332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
+- [GitHub]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/AzizEssa1412))  
+- ✉️ [Email](aziz.issa@students.alquds.edu)
