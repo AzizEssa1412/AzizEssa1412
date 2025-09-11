@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aziz Talat Issa
 
 🎓 Graduate of **Al-Quds University – Abu Dis**, majoring in **Computer Programming**.  
-💻 Currently training in a **Full-Stack Development Bootcamp with Exous**.  
+💻 Currently training in a **Full-Stack Development Bootcamp with Axsos**.  
 📜 Holder of multiple professional certificates from global institutions.  
 🌱 Always eager to learn new technologies and grow as a developer.  
 
@@ -62,8 +62,8 @@
 ---
 
 ## 🏆 Experience & Education
-- 📌 **Full-Stack Developer Intern** – Exous Bootcamp (2025)  
-- 🎓 **B.Sc. in Computer Programming** – Al-Quds University (2024)  
+- 📌 **Full-Stack Developer Intern** – Axsos Bootcamp (2025)  
+- 🎓 **B.Sc. in Computer Programming** – Al-Quds University (2025)  
 - 🏅 Certified in **Front-End, Python, and AI (NLP & LLMs)**  
 
 ---
